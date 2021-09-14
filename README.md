@@ -2,4 +2,4 @@
 
 Aprendi e exercitei conceitos de responsividade e jQuery.
 
-![](img\Giff_Netflix.gif)
+![](img/Giff_Netflix.gif)
