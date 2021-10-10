@@ -1,6 +1,6 @@
 # PROJETO-INTERFACE NETFLIX
 
-Aprendi e exercitei conceitos de responsividade e jQuery.
+Projetos para fins didaticos onde aprendi e exercitei conceitos de responsividade e jQuery.
 
 ## Utilizei:
 
